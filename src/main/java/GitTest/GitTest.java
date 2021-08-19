@@ -1,2 +1,5 @@
-package GitTest;public class GitTest {
+package GitTest;
+
+public class GitTest {
+
 }
